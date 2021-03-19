@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616142744 source:e:\programming\cpp\crypto\main.cpp
+	<windows.h>
+	<cstdio>
+	<iostream>
+	<bcrypt.h>
+
